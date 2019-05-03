@@ -1,4 +1,4 @@
-Dataset,Extradata,Global rank,Metric name,Metric value,Model,Remove,Task,metric name,paper,paper_path,paper_url
+dataset,extradata,global_rank,metric_name,metric_value,model,remove,task,metric_name,paper,paper_path,paper_url
 IC15,,# 10,F-Measure,75.61%,SegLink,-,Scene Text Detection,,Detecting Oriented Text in Natural Images by Linking Segments,/paper/detecting-oriented-text-in-natural-images-by,
 SCUT-CTW1500,,# 5,F-Measure,40.8%,SegLink,-,Curved Text Detection,,Detecting Oriented Text in Natural Images by Linking Segments,/paper/detecting-oriented-text-in-natural-images-by,
 SNLI,,# 36,% Test Accuracy,84.6,300D NSE encoders,-,Natural Language Inference,,Neural Semantic Encoders,/paper/neural-semantic-encoders,
