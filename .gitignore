@@ -1,2 +1,6 @@
-# data folder
 # data
+data
+
+#
+bert_nlp/squad_dir
+bert_nlp/output_dir
