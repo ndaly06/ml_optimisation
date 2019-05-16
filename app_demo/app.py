@@ -5,6 +5,11 @@ import dash_html_components as html
 import flask
 import os
 
+# https://dash-bootstrap-components.opensource.faculty.ai/l/components/navbar
+# import dash_bootstrap_components as dbc
+# import dash_html_components as html
+# from dash.dependencies import Input, Output, State
+
 #
 app = dash.Dash(__name__)
 server = app.server
@@ -27,7 +32,7 @@ app.layout = html.Div(children=[
         className = "container", style={'width': '10%', 'text-align': 'vertical-align', 'display': 'inline-block', 'color': 'white'}
         )
         ], 
-        className = "nav nav-pills", style={'backgroundColor': '#D50000', 'width': '100%', 'height': '45px'}
+        className = "nav nav-pills", style={'backgroundColor': '#3371e3', 'width': '100%', 'height': '45px'}
     ),
 
     html.Div(children=[
